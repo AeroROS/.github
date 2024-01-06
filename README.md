@@ -1,7 +1,5 @@
 # AeroROS
 
-![AeroROS Logo](link-to-logo)
-
 Welcome to AeroROS, an advanced open-source drone platform that seamlessly integrates ROS2 with the PX4 flight stack. Elevate your drone development experience with a modular and extensible environment, designed for developers, researchers, and enthusiasts alike.
 
 ## 🚀 Table of Contents
@@ -29,12 +27,12 @@ Dive into the core of AeroROS, exploring the intricate dance between ROS2 and PX
 - Python for scripting and rapid prototyping.
 
 ### Communication Protocols:
-- [MAVLink](link-to-mavlink) for robust drone communication.
-- [ROS2 Middleware (FastDDS)](link-to-ros2) for seamless integration.
+- [MAVLink](https://mavlink.io/en/) for robust drone communication.
+- [ROS2 Middleware (FastDDS)](https://www.eprosima.com/index.php/products-all/eprosima-fast-dds) for seamless integration.
 
 ### Development Tools:
-- [Visual Studio Code](link-to-vscode) for a sleek coding experience.
-- [Colcon](link-to-colcon) for organized compilation and management.
+- [Visual Studio Code](https://code.visualstudio.com/) for a sleek coding experience.
+- [Colcon](https://colcon.readthedocs.io/en/released/) for organized compilation and management.
 
 Dive deeper into the technology stack powering AeroROS in the [Technologies Used](link-to-technologies-used) section.
 
@@ -59,7 +57,7 @@ Ready to contribute to AeroROS? Consult our [Contribution Guidelines](link-to-co
 
 ## 📄 License
 
-AeroROS is released under the [BSD 3-Clause License](link-to-license). Embrace the spirit of open collaboration and innovation within our community.
+AeroROS is released under the [BSD 3-Clause License](https://opensource.org/license/bsd-3-clause/). Embrace the spirit of open collaboration and innovation within our community.
 
 ---
 
