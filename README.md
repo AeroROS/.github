@@ -63,6 +63,6 @@ AeroROS is released under the [BSD 3-Clause License](link-to-license). Embrace t
 
 ---
 
-For an in-depth exploration, visit our [Documentation]([link-to-documentation](https://www.notion.so/aeroros/Project-Book-741e2a5c854845a990ceb9827bd1e1ef)https://www.notion.so/aeroros/Project-Book-741e2a5c854845a990ceb9827bd1e1ef).
+For an in-depth exploration, visit our [Documentation](https://www.notion.so/aeroros/Project-Book-741e2a5c854845a990ceb9827bd1e1ef).
 
 Happy coding and soaring with AeroROS! 🚁✨
