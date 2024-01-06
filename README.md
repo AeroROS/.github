@@ -34,7 +34,6 @@ Dive into the core of AeroROS, exploring the intricate dance between ROS2 and PX
 
 ### Development Tools:
 - [Visual Studio Code](link-to-vscode) for a sleek coding experience.
-- [CLion](link-to-clion) for powerful C++ development.
 - [Colcon](link-to-colcon) for organized compilation and management.
 
 Dive deeper into the technology stack powering AeroROS in the [Technologies Used](link-to-technologies-used) section.
@@ -64,6 +63,6 @@ AeroROS is released under the [BSD 3-Clause License](link-to-license). Embrace t
 
 ---
 
-For an in-depth exploration, visit our [Documentation](link-to-documentation).
+For an in-depth exploration, visit our [Documentation]([link-to-documentation](https://www.notion.so/aeroros/Project-Book-741e2a5c854845a990ceb9827bd1e1ef)https://www.notion.so/aeroros/Project-Book-741e2a5c854845a990ceb9827bd1e1ef).
 
 Happy coding and soaring with AeroROS! 🚁✨
